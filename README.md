@@ -1,5 +1,3 @@
-# online_simulator
-Energy Meter Simulator
 # MicroTrade ATZ2000 Online Simulator
 
 A cloud-ready 6-Transformer Energy Meter Simulator supporting Modbus-TCP protocol and a web-based real-time control interface.
